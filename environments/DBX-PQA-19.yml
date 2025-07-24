@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "19"
+mappingDefinitions:
+  DESTINATION:
+    database: ben-dev
+    schema: pqa-env
+  SOURCE:
+    database: coalesce
+    schema: sample_data
+name: DBX - PQA
+type: Environment
