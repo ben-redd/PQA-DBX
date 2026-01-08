@@ -13921,20 +13921,6 @@ operation:
             transform: ""
       - appliedColumnTests: {}
         columnReference:
-          columnCounter: a2415e31-11b8-4f4c-9fc2-7536004d351c
-          stepCounter: 85dd7021-d93e-4da0-b944-f22e8f625b2b
-        config: {}
-        dataType: STRING
-        description: ""
-        name: l_comment111_458
-        nullable: true
-        sourceColumnReferences:
-          - columnReferences:
-              - columnCounter: 272426c7-5215-4f0f-9846-96bf3faf1231
-                stepCounter: 7f54ee46-0dfd-4751-a9a0-1b8b1b869980
-            transform: ""
-      - appliedColumnTests: {}
-        columnReference:
           columnCounter: d74ab8b7-4488-4952-a594-b3de854cf48f
           stepCounter: 85dd7021-d93e-4da0-b944-f22e8f625b2b
         config: {}
