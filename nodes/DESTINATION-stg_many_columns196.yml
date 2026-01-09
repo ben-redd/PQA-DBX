@@ -14003,20 +14003,6 @@ operation:
               - columnCounter: 30544230-1844-49d7-a4b4-4c178398e188
                 stepCounter: 85dd7021-d93e-4da0-b944-f22e8f625b2b
             transform: ""
-      - appliedColumnTests: {}
-        columnReference:
-          columnCounter: f0544823-ad75-4ca5-8ac2-ddda11526283
-          stepCounter: cda8abf9-41ef-4d1d-bb0c-dc53bc3b772b
-        config: {}
-        dataType: STRING
-        description: ""
-        name: l_comment1111_818_148
-        nullable: true
-        sourceColumnReferences:
-          - columnReferences:
-              - columnCounter: 51b3f90b-bef4-40d0-8d0b-61f3ec65902a
-                stepCounter: 85dd7021-d93e-4da0-b944-f22e8f625b2b
-            transform: ""
     cteString: ""
     enabledColumnTestIDs: []
     sourceMapping:
