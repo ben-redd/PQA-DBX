@@ -84,9 +84,9 @@ operation:
             nodeName: nation
         join:
           joinCondition: FROM {{ ref('SOURCE', 'nation') }} `nation`
-        name: stg_nation
+        name: STG_NATION
         noLinkRefs: []
-  name: stg_nation
+  name: STG_NATION
   overrideSQL: false
   schema: ""
   sqlType: Stage
